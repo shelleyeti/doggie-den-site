@@ -1,0 +1,21 @@
+[Thu Sep 26 02:48:26 2019] [warn] RSA server certificate CommonName (CN) `coreyarn.com' does NOT match server name!?
+[Thu Sep 26 02:48:34 2019] [warn] RSA server certificate CommonName (CN) `coreyarn.com' does NOT match server name!?
+[Thu Sep 26 08:48:03 2019] [error] [client 13.59.115.171] File does not exist: /var/www/doggiedenky.com/public_html/favicon.ico
+[Thu Sep 26 17:16:30 2019] [error] Hostname d provided via SNI and hostname doggiedenky.com provided via HTTP are different
+[Thu Sep 26 17:16:31 2019] [error] Hostname d provided via SNI and hostname doggiedenky.com provided via HTTP are different
+[Thu Sep 26 17:16:32 2019] [error] Hostname d provided via SNI and hostname doggiedenky.com provided via HTTP are different
+[Thu Sep 26 17:16:33 2019] [error] Hostname d provided via SNI and hostname doggiedenky.com provided via HTTP are different
+[Thu Sep 26 17:16:33 2019] [error] Hostname d provided via SNI and hostname doggiedenky.com provided via HTTP are different
+[Thu Sep 26 17:16:34 2019] [error] Hostname d provided via SNI and hostname doggiedenky.com provided via HTTP are different
+[Thu Sep 26 17:16:35 2019] [error] Hostname d provided via SNI and hostname doggiedenky.com provided via HTTP are different
+[Thu Sep 26 17:16:36 2019] [error] Hostname d provided via SNI and hostname doggiedenky.com provided via HTTP are different
+[Fri Sep 27 08:54:22 2019] [error] [client 157.55.39.0] File does not exist: /var/www/doggiedenky.com/public_html/robots.txt
+[Fri Sep 27 08:55:22 2019] [error] [client 157.55.39.32] File does not exist: /var/www/doggiedenky.com/public_html/robots.txt
+[Fri Sep 27 08:55:22 2019] [error] [client 157.55.39.32] File does not exist: /var/www/doggiedenky.com/public_html/robots.txt
+[Fri Sep 27 12:55:43 2019] [error] [client 18.220.128.65] File does not exist: /var/www/doggiedenky.com/public_html/robots.txt
+[Fri Sep 27 16:41:49 2019] [error] [client 158.69.225.34] File does not exist: /var/www/doggiedenky.com/public_html/robots.txt
+[Fri Sep 27 16:41:49 2019] [error] [client 158.69.225.34] File does not exist: /var/www/doggiedenky.com/public_html/sitemap.xml
+[Fri Sep 27 16:41:50 2019] [error] [client 158.69.225.34] File does not exist: /var/www/doggiedenky.com/public_html/ads.txt
+[Sat Sep 28 07:44:37 2019] [error] [client 128.90.166.78] File does not exist: /var/www/doggiedenky.com/public_html/wp-admin
+[Sat Sep 28 07:44:41 2019] [error] [client 128.90.166.78] File does not exist: /var/www/doggiedenky.com/public_html/wp-admin
+[Sat Sep 28 08:36:45 2019] [error] [client 49.249.232.198] File does not exist: /var/www/doggiedenky.com/public_html/favicon.ico

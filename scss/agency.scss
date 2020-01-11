@@ -17,3 +17,20 @@
 @import "layout/team.scss";
 @import "layout/contact.scss";
 @import "layout/footer.scss";
+
+
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }

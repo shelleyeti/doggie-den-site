@@ -8,8 +8,8 @@ var getImages = () => {
             $(data).find("a").attr("href", function (i, val) {
                 if (val.match(/\.(jpe?g|png|gif)$/)) {
                     $(".happyClientImages").append(
-                        `<a href='${val}'>
-                        <img class='d-block w-100' src='${val}'>
+                        `<a href="javascript:">
+                        <img class='d-block w-100' src='${folder + val}'>
                         </a>`
                     );
                     index++;
